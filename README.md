@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alvin Burgans
-- 👀 I’m interested in Game Development
+- 👀 I’m interested in Learning
 - 🌱 I’m currently learning Python
 - 📫 You can reach me at my gmail - burgans.alvin@gmail.com
 
