@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alvin Burgans
 - 👀 I’m interested in Learning
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Everything
 - 📫 You can reach me at my gmail - burgans.alvin@gmail.com
 
 <!---
